@@ -6,6 +6,8 @@ http://wiki.x2go.org/doku.php/download:start
 2. Zugang VPN zum Uninetzwerk
 https://www.urz.ovgu.de/vpn-path-204,616.html
 
+Portoption für OvGU Proxy 3128
+
 3. Zugriff auf den Pi
 User: pi-test
 IP : 10.48.11.6
